@@ -57,4 +57,3 @@ This project is a Python-based graphical user interface (GUI) application that a
 
 ---
 
-```
